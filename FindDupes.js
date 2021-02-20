@@ -7,4 +7,4 @@ function findDupes(arrayOne, arrayTwo) {
   return finalArray;
 }
 
-console.log(findDupes(arrayOne, arrayTwo));
+console.log(findDupes(arrayOne, arrayTwo)) ;
